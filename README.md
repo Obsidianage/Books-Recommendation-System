@@ -1,4 +1,4 @@
-## Books Recommendation System
+## Books Recommendation System (End-to-End ML project)
 
 This project is a web application that allows users to browse and search for books, and get personalized recommendations based on their preferences. The project is built using Python, Flask, HTML, CSS, and Bootstrap. It uses a dataset of over 10,000 books from Goodreads, which includes information such as title, author, genre, rating, and number of reviews.
 Features
